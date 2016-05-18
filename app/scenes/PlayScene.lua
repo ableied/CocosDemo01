@@ -9,7 +9,6 @@ local tickFlush = 0.1
 --local touchLayer
 
 local cplane
-lll
 local spPlane2
 
 --添加按钮方法
